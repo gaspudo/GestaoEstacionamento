@@ -35,9 +35,6 @@ PIX: Geração de chave aleatória via Guid para transações instantâneas.
 
 ## 🛠️ Tecnologias Utilizadas
 .NET 8 / C#
-
-LINQ (para futuras implementações de busca)
-
 Manipulação de Tipos Nullable (Tratamento de erro CS8600)
 
 ## 🚀 Como Executar
