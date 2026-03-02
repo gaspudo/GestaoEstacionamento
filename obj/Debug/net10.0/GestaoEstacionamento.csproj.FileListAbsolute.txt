@@ -1,0 +1,14 @@
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\obj\Debug\net10.0\GestaoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\obj\Debug\net10.0\GestaoEstacionamento.AssemblyInfoInputs.cache
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\obj\Debug\net10.0\GestaoEstacionamento.AssemblyInfo.cs
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\obj\Debug\net10.0\GestaoEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\bin\Debug\net10.0\GestaoEstacionamento.exe
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\bin\Debug\net10.0\GestaoEstacionamento.deps.json
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\bin\Debug\net10.0\GestaoEstacionamento.runtimeconfig.json
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\bin\Debug\net10.0\GestaoEstacionamento.dll
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\bin\Debug\net10.0\GestaoEstacionamento.pdb
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\obj\Debug\net10.0\GestaoEstacionamento.dll
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\obj\Debug\net10.0\refint\GestaoEstacionamento.dll
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\obj\Debug\net10.0\GestaoEstacionamento.pdb
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\obj\Debug\net10.0\GestaoEstacionamento.genruntimeconfig.cache
+C:\Users\PCLOCAL\Desktop\gaspudo_testes\aulas_c#\c#_senai\GestaoEstacionamento\obj\Debug\net10.0\ref\GestaoEstacionamento.dll
